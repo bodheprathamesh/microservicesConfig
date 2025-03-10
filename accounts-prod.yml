@@ -5,7 +5,7 @@ accounts:
   message: "welcome to bank accounts related PROD APIs"
   contactDetails:
     name : "barry-Allen Lead-Support"
-    email: "codingkrle1@gmail.com"
+    email: "{cipher}4dd25a3a01f0dae3361262cc1a3db054e9b1c63818f446a1192a818e909ce731f4bc7047ba75faaaf4550b542546411a"
   onContactSupport:
     - 123456798
     - 987654321
