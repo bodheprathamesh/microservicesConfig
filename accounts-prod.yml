@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "welcome to bank accounts related PROD APIs"
+  contactDetails:
+    name : "barry-Allen Lead-Support"
+    email: "codingkrle1@gmail.com"
+  onContactSupport:
+    - 123456798
+    - 987654321

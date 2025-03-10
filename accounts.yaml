@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "welcome to bank accounts related APIs"
+  contactDetails:
+    name : "barry-Allen"
+    email: "codingkrle@gmail.com"
+  onContactSupport:
+    - 123456798
+    - 987654321
