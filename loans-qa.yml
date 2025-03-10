@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: "welcome to bank accounts related QA APIs"
+  message: "welcome to bank accounts related Quality n Assurance APIs"
   contactDetails:
     name : "barry-Allen Lead-QA"
     email: "codingkrle2@gmail.com"
