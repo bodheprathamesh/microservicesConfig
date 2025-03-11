@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 cards:
-  message: "welcome to bank accounts related PROD APIs"
+  message: "welcome to bank accounts related PRODUCTION APIs"
   contactDetails:
     name : "barry-Allen Lead-Support"
     email: "codingkrle1@gmail.com"
