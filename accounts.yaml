@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "welcome to bank accounts related APIs"
+  message: "welcome to bank accounts related APIs For EazyBank"
   contactDetails:
     name : "barry-Allen"
     email: "codingkrle@gmail.com"
